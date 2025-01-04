@@ -4,7 +4,7 @@ An open source, unconsolidated knowledge pool for Degenify.AI -- A community tra
 
 ## How it works?
 
-The knowledge pool aims to consolidate raw, unhydrated, and unlinked data from multiple sources. Initially, the twitter account for Degenify.AI is the primary source, but contributes via github are encouraged and accepted. Please see the pull request template for an example & guide for contributing knowledge to Degenify.AI. This repository is the primary bronze layer in our data lakehouse & serves as the primary feed for our aggregation.
+The knowledge pool aims to consolidate raw, unhydrated, and unlinked data from multiple sources. Initially, the twitter account for Degenify.AI is the primary source, but contributions via github PRs are encouraged and accepted. Please see the pull request template for an example & guide for contributing knowledge to Degenify.AI. This repository is the primary bronze layer in our data lakehouse & serves as the primary feed for our aggregation.
 
 ![Lakehouse Diagram (Databricks)](https://github.com/user-attachments/assets/493a0c9c-4423-4e43-b40b-1309054c1a9e)
 
